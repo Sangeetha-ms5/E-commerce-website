@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)"/>
+  <rect x="135" y="45" width="130" height="310" rx="22" fill="#0f172a" stroke="#dbeafe" stroke-width="8"/>
+  <rect x="150" y="80" width="100" height="190" rx="12" fill="#0b1120"/>
+  <circle cx="200" cy="295" r="8" fill="#dbeafe"/>
+  <rect x="165" y="110" width="70" height="38" rx="8" fill="#4ade80"/>
+  <rect x="165" y="158" width="70" height="18" rx="6" fill="#dbeafe" opacity="0.9"/>
+  <rect x="165" y="185" width="55" height="18" rx="6" fill="#dbeafe" opacity="0.7"/>
+  <text x="200" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ecfeff">Smartphone</text>
+</svg>

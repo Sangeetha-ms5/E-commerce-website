@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)"/>
+  <rect x="80" y="110" width="240" height="150" rx="20" fill="#f8fafc" stroke="#7c3aed" stroke-width="8"/>
+  <path d="M120 150 H270 C295 150 315 170 315 195 V204 C315 229 295 249 270 249 H120 Z" fill="#e9d5ff"/>
+  <rect x="240" y="155" width="45" height="40" rx="8" fill="#c4b5fd"/>
+  <circle cx="160" cy="200" r="16" fill="#a78bfa"/>
+  <circle cx="205" cy="200" r="16" fill="#a78bfa"/>
+  <text x="200" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#3b1d52">Wallet</text>
+</svg>

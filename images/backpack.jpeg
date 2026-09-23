@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f6d365"/>
+      <stop offset="100%" stop-color="#fda085"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="24" fill="url(#bg)"/>
+  <rect x="120" y="80" width="160" height="200" rx="24" fill="#fff2d8" stroke="#7a4b2a" stroke-width="8"/>
+  <rect x="140" y="120" width="120" height="120" rx="18" fill="#f4b860"/>
+  <path d="M150 90 L120 90 L110 140 L90 140" stroke="#7a4b2a" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M250 90 L280 90 L290 140 L310 140" stroke="#7a4b2a" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <text x="200" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#2d1b12">Backpack</text>
+</svg>
